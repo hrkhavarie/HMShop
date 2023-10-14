@@ -50,7 +50,6 @@ const TopColloctaion = () => {
                                 <div className="col-sm-12 shop-all-btn"><Link href="shop-left-sidebar-col-3.html">Shop All Collection</Link></div>
                             </div>
                         </div>
-                        {/* <!-- ec 1st Product tab end --> */}
                         {/* <!-- ec 2nd Product tab start --> */}
                         <div className="tab-pane fade" id="tab-pro-for-men">
                             <div className="row">
@@ -61,7 +60,6 @@ const TopColloctaion = () => {
                                <ProductCard/>
                             </div>
                         </div>
-                        {/* <!-- ec 2nd Product tab end --> */}
                         {/* <!-- ec 3rd Product tab start --> */}
                         <div className="tab-pane fade" id="tab-pro-for-women">
                             <div className="row">
@@ -76,11 +74,9 @@ const TopColloctaion = () => {
                                 <div className="col-sm-12 shop-all-btn"><Link href="shop-left-sidebar-col-3.html">Shop All Collection</Link></div>
                             </div>
                         </div>
-                        {/* <!-- ec 3rd Product tab end --> */}
                         {/* <!-- ec 4th Product tab start --> */}
                         <div className="tab-pane fade" id="tab-pro-for-child">
                             <div className="row">
-                                {/* <!-- Product Content -->                                 */}
                                <ProductCard/>
                                <ProductCard/>
                                <ProductCard/>
