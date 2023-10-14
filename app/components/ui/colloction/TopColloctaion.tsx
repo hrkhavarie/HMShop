@@ -54,7 +54,6 @@ const TopColloctaion = () => {
                         {/* <!-- ec 2nd Product tab start --> */}
                         <div className="tab-pane fade" id="tab-pro-for-men">
                             <div className="row">
-                                 {/* <!-- Product Content -->                                 */} */}
 
                                <ProductCard/>
                                <ProductCard/>
@@ -66,7 +65,6 @@ const TopColloctaion = () => {
                         {/* <!-- ec 3rd Product tab start --> */}
                         <div className="tab-pane fade" id="tab-pro-for-women">
                             <div className="row">
-                                 {/* <!-- Product Content -->                                 */} */}
                                
                                <ProductCard/>
                                <ProductCard/>
